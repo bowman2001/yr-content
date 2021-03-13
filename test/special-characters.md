@@ -17,6 +17,8 @@ paragraph | &para; | `&para;` | 00B6
 periodcentered | &centerdot; | `&centerdot;` | 00B7
 guillemotright | &raquo; | `&raquo;` | 00BB
 guillemotleft | &laquo; | `&laquo;` | 00AB
+guillemotright-single | &rasquo; | `&rasquo;` | 
+guillemotleft-single | &lasquo; | `&lasquo;` | 
 asterisk | \* | `\*` | 
 dagger | &dagger; | `&dagger;` | 2020
 daggerdbl | &Dagger; | `&Dagger;` | 2021
