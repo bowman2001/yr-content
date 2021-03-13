@@ -4,7 +4,6 @@ date: 2020-10-10T14:20:37+02:00
 slug: "headings-in-text"
 author: jh
 weight: 10
-draft: true
 ---
 *This posting is intended for testing purposes only. If you have found it in a public website with regular content, the owner of the site has probably forgotten to delete it.*
 
